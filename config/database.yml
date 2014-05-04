@@ -82,4 +82,4 @@ production:
   <<: *default
   database: t1_production
   username: t1
-  password: <%= ENV['T1_DATABASE_PASSWORD'] %>
+  password: hs
