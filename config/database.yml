@@ -81,7 +81,7 @@ test:
 production:
   <<: *default
   database: t1_production
-  username: postgres
-  password: post
+  username: deploy
+  password: dep
 ###########################33
 #########################33333
